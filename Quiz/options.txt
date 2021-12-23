@@ -1,0 +1,5 @@
+List Tuple Dictionary 
+Scikit-learn Pandas Numpy 
+Last-element Middle-element First-element
+Function Loop Vector
+Python C++ HTML 

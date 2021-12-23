@@ -1,0 +1,5 @@
+Which of the following data structures in Python is immutable?
+The ------- library is used for Machine Learning in Python 
+Which element in C++ carries the address of an array?
+Which of the following is used to iterate over an array?
+Which of the following is not a Programming language?
