@@ -14,7 +14,8 @@ Symbol Scraper can be run two ways:
 
 ## Building the Command Line Program 
 - To build the the program for use at the command line, 
-  - first move to the base directory (symbolscraper-server), and then build the system with maven, using the following command (tested on linux systems with java 11): mvn clean package
+  - first, clone this directory: https://gitlab.com/dprl/symbolscraper-server.git 
+  - Then move to the base directory (symbolscraper-server), and then build the system with maven, using the following command (tested on linux systems with java 11): mvn clean package
   - The program now resides in a shaded jar (i.e., a compiled, linked set of jar files) located at target/symbolscraper-server-1.0-SNAPSHOT-shaded.jar.
 
 ## Command Line Execution
