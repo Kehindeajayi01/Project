@@ -2,7 +2,7 @@
 **evaluate_struture** script provides a way to calculate both the IOU (Intersection Over Union) value and precision of the predicted bounding boxes of table images against the ground truth.
 
 ## Symbol Scraper
-- Symbol Scraper extracts the locations and attributes associated with characters
+- Symbol Scraper extracts the locations and attributes associated with **characters**
 and graphics in PDF files. Attributes include fonts, line endpoints, line
 widths, etc.  Results are returned in XML, or as an annotated version of an input
 PDF file showing the bounding box locations of identified text and graphics.
