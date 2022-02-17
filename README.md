@@ -19,9 +19,9 @@ Symbol Scraper can be run two ways:
 
 ## Command Line Execution
 - To extract the character and page number locations, run the following command:
-  java -jar target/symbolscraper-server-1.0-SNAPSHOT-shaded.jar -f "PDF/file" -o "XML/file/to/store/output" -b "PDF/to/store/visualization" --processors SpliceGraphicsItemsAndCharsWithIOU IdentifyMathFromSplicedStructure
+  - java -jar target/symbolscraper-server-1.0-SNAPSHOT-shaded.jar -f "PDF/file" -o "XML/file/to/store/output" -b "PDF/to/store/visualization" --processors SpliceGraphicsItemsAndCharsWithIOU IdentifyMathFromSplicedStructure
   - This makes use of two XML data post-processing steps named at the end of the command
- ### Summary of command-line command
+ ### Summary of command-line options
 - -f: input PDF file (REQUIRED)
 
 - -o: write output XML to given file name. If missing, XML written to standard output.
